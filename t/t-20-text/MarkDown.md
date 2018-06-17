@@ -12,6 +12,8 @@ The second paragraph.
  * Another bullet point with a second line, which is so long that it should
    get wrapped by the output of po4a
  * A third bullet point
+   * A nested bullet point
+   * Another nested bullet point
 
 # Another title with different markup
 

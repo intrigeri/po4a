@@ -66,6 +66,17 @@ msgstr ""
 msgid "A third bullet point"
 msgstr ""
 
+
+#. type: Bullet: '   * '
+#: t-20-text/MarkDown.md:15
+"A nested bullet point"
+msgstr ""
+
+#. type: Bullet: '   * '
+#: t-20-text/MarkDown.md:15
+"Another nested bullet point"
+msgstr ""
+
 #. type: Title #
 #: t-20-text/MarkDown.md:16
 #, no-wrap
